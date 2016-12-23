@@ -1,0 +1,15 @@
+{
+  "name": "popcorn_testserver",
+  "version": "1.0.0",
+  "description": "nodejs simple server for anonymous sns project final build test",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "nayeaoh",
+  "license": "NY",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
+}
